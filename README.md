@@ -1,7 +1,3 @@
-Here's a template for a `README.md` file that includes a section for a video demonstration of your app. You can customize the video link and any other details as needed:
-
----
-
 # Employee CRUD App
 
 This is a Flutter CRUD app for managing employees, built with local SQLite (Sqflite) database for offline storage. The app allows users to add, view, edit, and delete employee records with the following fields:
@@ -22,9 +18,9 @@ This is a Flutter CRUD app for managing employees, built with local SQLite (Sqfl
 
 Watch the video below for a complete walkthrough of the app's functionality:
 
-[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://github.com/user-attachments/assets/c41f724e-fbf2-4b91-9db6-af7e3d8c3938
+)
 
-Replace `YOUR_VIDEO_ID` with the actual ID of your YouTube video.
 
 ## Getting Started
 
@@ -106,7 +102,3 @@ dependencies:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-### Notes:
-- Ensure you replace `YOUR_VIDEO_ID` with the actual YouTube video ID of your app's demonstration.
-- You can add more sections or details as needed to provide better context for users viewing your repository.
